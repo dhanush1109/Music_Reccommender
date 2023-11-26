@@ -1,6 +1,6 @@
 ## Music_Reccommender
 
-Title: Million Songs Dataset Recommendation System
+Title: Music Recommendation System
 
 ### Overview
 This Jupyter Notebook contains the code for building a recommendation system using the Million Songs Dataset. The system utilizes machine learning algorithms to recommend songs based on user preferences.
