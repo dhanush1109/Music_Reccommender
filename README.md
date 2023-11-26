@@ -18,11 +18,11 @@ To run this Jupyter Notebook, ensure that you have the following dependencies in
 4. Follow the instructions within the notebook to interpret the results and use the recommendation system.
 
 ### Dataset
-The project uses the Million Songs Dataset, which can be obtained from [source link]. The dataset is in CSV format and contains information about songs, artists, and user preferences.
+The project uses the Million Songs Dataset, which can be obtained from the github reposatary. The dataset is in CSV format and contains information about songs, artists, and user preferences.
 
 ### Files
 - "MillionSongs_Dataset_Recommendation.ipynb": Jupyter Notebook file containing the recommendation system code.
-- Additional data files (if any): [list any additional files used in the project]
+- Additional data files (Datasets) that are in the repository in compressed form.
 
 ### Credits
 This project was developed as part of [organization/institution name]. Special thanks to [individuals/organizations] for their contributions and support.
