@@ -24,8 +24,6 @@ The project uses the Million Songs Dataset, which can be obtained from the githu
 - "MillionSongs_Dataset_Recommendation.ipynb": Jupyter Notebook file containing the recommendation system code.
 - Additional data files (Datasets) that are in the repository in compressed form.
 
-### Credits
-This project was developed as part of [organization/institution name]. Special thanks to [individuals/organizations] for their contributions and support.
 
 ### License
 This project is licensed under [license type]. See the LICENSE file for more details.
